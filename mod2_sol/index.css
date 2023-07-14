@@ -30,6 +30,7 @@ div{
 	margin-bottom: auto;
 }
 .tab1{
+	float:right;
 	color: blue;
 	text-align: center;
 	width:100px;
@@ -42,6 +43,7 @@ div{
 	background-color: yellow;
 }
 .tab2{
+	float:right;
 	color: black;
 	text-align: center;
 	margin:-3px -3px 0px;
@@ -54,6 +56,7 @@ div{
 	background-color: sandybrown;
 }
 .tab3{
+	float:right;
 	color: #fff;
 	text-align: center;
 	width:100px;
